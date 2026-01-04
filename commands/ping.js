@@ -48,7 +48,7 @@ function getNairobiDate() {
 async function pingCommand(sock, chatId, message) {
     try {
         const start = Date.now();
-        await sock.sendMessage(chatId, { text: '🏓 Pinging...' }, { quoted: message });
+        await sock.sendMessage(chatId, { text: '‼️' }, { quoted: message });
         const end = Date.now();
         const ping = end - start;
 
