@@ -2,8 +2,8 @@ const settings = {
   packname: '404 XMD',
   author: 'NUCH',
   botName: "404 XMD",
-  botOwner: 'ÑÓRKÎD♻️', // Your name
-  ownerNumber: '254788083572', 
+  botOwner: '404unkown', // Your name
+  ownerNumber: '254769769295', 
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
